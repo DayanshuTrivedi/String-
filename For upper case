@@ -1,0 +1,7 @@
+String a= "Dayanshu";
+cout<<a.toUpper();
+
+
+
+
+Result= DAYANSHU 
