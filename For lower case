@@ -1,7 +1,7 @@
 String a= "Dayanshu";
-cout<<a.toLower();
+cout<<a.toLower();.
 
 
 
 
-Result= dayanshu
+
