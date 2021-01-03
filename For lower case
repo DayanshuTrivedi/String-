@@ -2,6 +2,3 @@ String a= "Dayanshu";
 cout<<a.toLower();
 
 
-
-
-Result= dayanshu
